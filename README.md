@@ -1,12 +1,8 @@
-###  DATE: 14/03/2023
-
-###  NAME: KISHORE KUMAR U 
-###  ROLL NO : 212222233003
-###  DEPARTMENT: AIDS
-
-
 # EXPERIMENT NO 05 INTERFACING ANALOG OUTPUT SERVO MOTOR WITH ARDUINO
-
+## DATE :01-04-2024
+## NAME :KISHORE KUMAR U																			             
+## ROLLNUMBER :212222233003
+## DEPARTMENT :AIDS
 ### AIM
 To interface an Analog output (servo motor) and modify the angular displacement of the servo using PWM signal .
 COMPONENTS REQUIRED:
